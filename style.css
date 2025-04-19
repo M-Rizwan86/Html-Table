@@ -12,18 +12,19 @@ td,
 th {
 
     border: 1px, black, solid;
+    
 
 
 }
 .row-1{
-    background-color: aqua;
+    background-color: rgb(158, 255, 255);
 }
 .row-1:hover{
     background-color: wheat;
     height: 70px;
 }
 .row-2{
-    background-color: aqua;
+    background-color: rgb(195, 237, 237);
 }
 .row-2:hover{
     background-color: rgb(173, 173, 191);
