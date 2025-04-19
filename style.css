@@ -22,7 +22,9 @@ th {
     background-color: wheat;
     height: 70px;
 }
-
+.row-2{
+    background-color: aqua;
+}
 .row-2:hover{
     background-color: rgb(173, 173, 191);
     height: 70px;
